@@ -1,0 +1,14 @@
+c:\progetti\TrelloExport\TrelloExport\bin\Release\TrelloExport.exe.config
+c:\progetti\TrelloExport\TrelloExport\bin\Release\TrelloExport.exe
+c:\progetti\TrelloExport\TrelloExport\bin\Release\TrelloExport.pdb
+c:\progetti\TrelloExport\TrelloExport\bin\Release\Newtonsoft.Json.dll
+c:\progetti\TrelloExport\TrelloExport\bin\Release\RestSharp.dll
+c:\progetti\TrelloExport\TrelloExport\bin\Release\TrelloNet.dll
+c:\progetti\TrelloExport\TrelloExport\bin\Release\Newtonsoft.Json.xml
+c:\progetti\TrelloExport\TrelloExport\bin\Release\RestSharp.xml
+c:\progetti\TrelloExport\TrelloExport\bin\Release\TrelloNet.xml
+c:\progetti\TrelloExport\TrelloExport\obj\Release\TrelloExport.Form1.resources
+c:\progetti\TrelloExport\TrelloExport\obj\Release\TrelloExport.Properties.Resources.resources
+c:\progetti\TrelloExport\TrelloExport\obj\Release\TrelloExport.csproj.GenerateResource.Cache
+c:\progetti\TrelloExport\TrelloExport\obj\Release\TrelloExport.exe
+c:\progetti\TrelloExport\TrelloExport\obj\Release\TrelloExport.pdb
